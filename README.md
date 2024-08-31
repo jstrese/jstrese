@@ -6,7 +6,7 @@ jason
 ```json
 {
     "name": "Jason",
-    "occupation": "Engineering Manager",
+    "occupation": "Principal Engineer",
     "location": "Omaha, NE"
 }
 ```
